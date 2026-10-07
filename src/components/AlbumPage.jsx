@@ -69,9 +69,9 @@ export default function AlbumPage({
               : index === 1
               ? 'vignette-editorial'
               : index === 2
-              ? 'vignette-center-dark'
+              ? 'vignette-editorial'
               : index === 3
-              ? 'subtle-dark-overlay'
+              ? 'vignette-editorial'
               : index === 8
               ? 'gradient-bottom-dark'
               : 'gradient-bottom-editorial'
